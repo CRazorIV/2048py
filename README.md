@@ -1,5 +1,8 @@
 # 2048Py
 
+![image](https://github.com/user-attachments/assets/60257919-982f-456d-885c-fcf8ae359f8e)
+
+
 A clone of the popular 2048 game that I created to practice Object-Oriented Programming (OOP) principles and explore GUI development with Python's Tkinter library. This implementation replicates the original game's mechanics and aesthetics while serving as a practical exercise in software development.
 
 **Note: This is a learning project created to practice programming concepts. The code is available for viewing and educational purposes only. No permission is granted for reuse, modification, or distribution of the code.**
